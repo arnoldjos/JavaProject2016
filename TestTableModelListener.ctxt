@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TestTableModelListener()
+comment1.params=
+comment1.target=javax.swing.JTable\ createTable()
+comment2.params=column
+comment2.target=java.lang.Class\ getColumnClass(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=
+comment4.target=void\ run()
+numComments=5
